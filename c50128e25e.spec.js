@@ -1,4 +1,4 @@
-describe('Login', () => {
+describe('c50128e25e', () => {
     beforeEach(() => {
     cy.visit('http://localhost:8000')
     })
